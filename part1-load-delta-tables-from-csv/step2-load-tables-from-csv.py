@@ -1,10 +1,6 @@
 # Databricks notebook source
-
-
-# COMMAND ----------
-
 # MAGIC %md
-# MAGIC # Load HM CVS int Delta Tables
+# MAGIC # Load HM CSVs Into Delta Tables
 
 # COMMAND ----------
 
