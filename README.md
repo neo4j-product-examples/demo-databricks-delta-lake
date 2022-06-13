@@ -1,7 +1,7 @@
 # Demo of Databricks Delta Lake Integration
 
 1. `stage-delta-tables-from-csvs` creates the delta tables
-2. `demo-etl` demonstrates ETL from delatlake into Neo4j
+2. `demo-etl` demonstrates ETL from Delta Lake into Neo4j
 
 The source data used is from the [H&M Personalized Fashion Recommendations Kaggle Competition](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data).
 
